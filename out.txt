@@ -1,0 +1,24 @@
+
+Search Results for "king":
+emperor   			26.8088
+son       			23.2735
+lord      			22.4648
+throne    			22.4461
+prince    			22.2827
+
+
+Search Results for "queen":
+princess  			25.0427
+daughter  			21.8918
+king      			21.5698
+her       			21.4837
+royal     			21.2872
+
+
+Search Results for "prince":
+king      			22.2827
+son       			21.9180
+emperor   			21.6632
+princess  			21.4349
+queen     			20.3892
+
